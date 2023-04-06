@@ -1,0 +1,1 @@
+print("trong pakage bao gồm từng đây hàm")
